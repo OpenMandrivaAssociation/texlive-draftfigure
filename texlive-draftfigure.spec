@@ -1,6 +1,6 @@
 Name:		texlive-draftfigure
 Version:	44854
-Release:	1
+Release:	2
 Summary:	Replace figures with a white box and additional features
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/draftfigure

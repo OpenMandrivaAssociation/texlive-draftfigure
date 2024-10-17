@@ -3,7 +3,7 @@ Version:	44854
 Release:	2
 Summary:	Replace figures with a white box and additional features
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/draftfigure
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/draftfigure
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/draftfigure.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/draftfigure.doc.r%{version}.tar.xz
